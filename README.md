@@ -118,7 +118,10 @@ following:
 ```
 
 As long as each bit of data in a `<td>` is in the _same position_ as the
-corresponding `<th>` in the first row, it will show up in that column.
+corresponding `<th>` in the first row, it will show up in that colu
+       has the correct information about Los Angeles:
+
+      Asmn.
 
 Repeating this structure, if we wanted to include 3 guests for our party, our
 entire table would look like the following:
